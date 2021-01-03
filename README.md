@@ -1,2 +1,2 @@
-# Intersting-python-programs
-These programs where given during a HACKERRANK exam session in our college. 
+# Some Examples programs based on python
+These programs where given during a HACKERRANK exam session.
